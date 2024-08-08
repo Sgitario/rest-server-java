@@ -1,0 +1,5 @@
+org.sgitario.controllers.GetBooksRestController
+org.sgitario.controllers.AddBooksRestController
+org.sgitario.controllers.AddBookByTitleRestController
+org.sgitario.controllers.GetAuthorByBookRestController
+org.sgitario.controllers.DeleteAuthorByBookRestController
